@@ -6,5 +6,14 @@ This project is part of my React learning process from the scratch. This is a ve
 
 # Screenshots 
 
+(01) (all items)
+![Screenshot (2172)](https://user-images.githubusercontent.com/88100576/203029665-effd21cf-6010-485e-a97a-586206c6f55f.png)
+
+
+
+(02)(Selected category)
+![Screenshot (2174)](https://user-images.githubusercontent.com/88100576/203029475-50f56f85-4682-4c82-b5ce-89e0d90de0fd.png)
+
+
 ## Created By
 Arup Mondal ([@mondalCodeHub](https://www.github.com/mondalCodeHub))
