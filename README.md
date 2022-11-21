@@ -11,7 +11,7 @@ This project is part of my React learning process from the scratch. This is a ve
 
 
 
-(02)(Selected category)
+(02) (Selected category)
 ![Screenshot (2174)](https://user-images.githubusercontent.com/88100576/203029475-50f56f85-4682-4c82-b5ce-89e0d90de0fd.png)
 
 
