@@ -7,7 +7,6 @@ Menu cards can include information about the restaurant's cuisine. Menu cards, w
 This project is part of my React learning process from the scratch. This is a very simple project to help me brush up on my skills and prerequisite knowledge before diving into a large real-world application. The complexity of the react projects in this repository will grow as the days pass. 
 
 # Screenshots 
-
 (01) (all items)
 ![Screenshot (2172)](https://user-images.githubusercontent.com/88100576/203029665-effd21cf-6010-485e-a97a-586206c6f55f.png)
 
